@@ -102,6 +102,14 @@ h2 {
    margin-bottom: 10px;
 }
 
+.input-group__form-item > span {
+    font-size: .8125rem;
+}
+
+.input-group__form-item.email > label{
+    margin-bottom: 20px;
+}
+
 .input-group__form-item-interest {
    width: 100%;
    display: flex;
