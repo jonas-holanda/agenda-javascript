@@ -1,0 +1,14 @@
+@media screen and (max-width:768px) {
+    .container__contacts {
+        padding: 0 5px;
+    }
+
+    .input-group__form-item {
+        width: 100%;
+    }
+
+    .add-area__input-group {
+        margin: 2px 0;
+    }
+
+}
